@@ -1,4 +1,4 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurunesh30&show_icons=true&theme=radial)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gurunesh30&...)
 
 ⚡ **My Core Tech Stack:**
 
