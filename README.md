@@ -1,4 +1,1 @@
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gurunesh30&...)
-
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gurunesh30.gurunesh30)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurunesh30&theme=radial)
