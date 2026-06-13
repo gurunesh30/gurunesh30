@@ -1,10 +1,10 @@
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gurunesh30&theme=radial)
+
 <p align="center">
   <!-- General Stats Card (Dark Theme) -->
-  <img src="https://github-readme-stats.shion.dev/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gurunesh30&show_icons=true&theme=dracula" alt="GitHub Stats" />
   
   <!-- Streak Stats Card (Dark Theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurunesh30&theme=dracula" alt="GitHub Streak" />
 </p>
