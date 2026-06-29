@@ -1,10 +1,3 @@
-
-
-
-<p align="center">
-  <!-- General Stats Card (Dark Theme) -->
-  <img src="https://github-readme-stats.shion.dev/api?username=gurunesh30&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  
-  <!-- Streak Stats Card (Dark Theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurunesh30&theme=dracula" alt="GitHub Streak" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurunesh30&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurunesh30&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurunesh30&theme=monokai&utcOffset=-6)
