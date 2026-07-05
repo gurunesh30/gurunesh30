@@ -1,2 +1,1 @@
-### ⚽ My Developer Stats
-![My GitHub FIFA Card](https://github.com/gurunesh30/gurunesh30/blob/main/gurunesh30-gitfut.png)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gurunesh30&theme=monkai)
