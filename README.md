@@ -1,1 +1,1 @@
-![Your GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gurunesh30&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=gurunesh30&show_icons=true&theme=dark)
